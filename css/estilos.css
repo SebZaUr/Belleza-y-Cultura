@@ -1,0 +1,152 @@
+				*{
+					margin: 0;
+					padding: 0;
+					-webkit-box-sizing: border-box;
+					-moz-box-sizing: border-box;
+					box-sizing: border-box;
+				}
+				
+				body{
+					background-color: #fff;
+				}
+				
+				#pantalla{
+					background-color:#D5CFD2;
+				}
+				
+				.navegacion{
+					width:1400;
+					height:15px;
+					background:purple;
+					
+				}
+				.navegacion ul{
+					list-style: none;
+					display: flex;					
+				}
+				
+				.menu li{
+					position: relative;
+					display: inline-block;
+				}
+				
+				.menu li a{
+					display: block;
+					padding:0px 70px;
+					background-color:#8D4F72;
+					text-decoration: none;
+					height: 45px;
+					text-align: center;
+					color: #F48CC0;
+				}
+				.submenu {
+					position: absolute;
+					width: 100%;
+					background: #cccccc;
+					visibility: hidden;
+					opacity: 0;
+					transition: opacity 1.5s;
+				}
+				.submenu li a{
+					display: block;
+					padding: 10px;
+					background-color:#8D4F72;
+					text-decoration: none;
+					
+				}
+				.submenu2 {
+					position: absolute;
+					width: 100%;
+					background: #cccccc;
+					visibility: hidden;
+					opacity: 0;
+					transition: opacity 1.5s;
+					flex-direction: column;
+				}
+				.submenu2 li a{
+					display: block;
+					padding: 10px;
+					background-color:#8D4F72;
+					text-decoration: none;
+					
+				}
+				
+				.menu li a:hover{
+					background-color: #848383;
+					transition: all .3s;
+				}
+				
+				.menu li:hover .submenu{
+					visibility: visible;
+					opacity: 1;
+				}
+				.submenu li:hover .submenu2{
+					visibility: visible;
+					opacity: 1;
+				}
+				
+				#imagen{
+					text-align: left;
+					margin-left: 50px;
+					float: left
+				}
+				
+				#texto{
+					text-align: center;
+					margin-left: 150px;
+					font-size: 300%;
+					float: left;
+					margin-top: 70px;
+				}
+				
+				#imagen2{
+					text-align: right;
+					margin-left: 50px;
+					margin-right: 50px;
+				}
+				
+				#lab{
+					aling: right;
+				}
+				
+				#icono{
+					display: none;
+				}
+				
+				#final{
+					text-align: center;
+					font-size: 200%;
+					font-family: Brush Script MT;
+					background-color: #807E7E;
+					color: #fff;
+				}
+				#spa{
+					width: 250;
+				}
+				P{
+					text-align: center;
+				}
+				h2{
+					text-align: center;
+				}
+				
+				.boton{
+				  width:100px;
+				  height:40px;
+				  background-color:#AFAAAA;
+				  font-size:100%;
+				  text-align: center;
+				  margin-left: 650px;
+				  border-radius: 6px;
+				}
+				.boton:hover{
+				  opacity: 0.50;
+				  -moz-opacity: .50;
+				  filter:alpha (opacity=50);
+				}
+				.boton a{
+				  color:#fff;
+				  text-decoration:none;
+				  padding:5px 5px 5px 0;
+				}
+

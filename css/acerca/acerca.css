@@ -1,0 +1,29 @@
+				.imagen{
+					float: left;
+					margin-left: 120px;
+					text-align:center;
+				}
+				.imagen2{
+					text-align: center;
+				}
+				.circular{
+				    width:200px;
+					height:300px;
+					border-radius:100px;
+				}
+				#imagen-3{
+					float: left;
+					margin-left: 120px;
+				}
+				#imagen-4{
+					margin-left: 120px;;
+				}
+				.parrafo{
+					font-size: 120%;
+					text-align: center;
+				}
+				#par{
+					font-size: 300%;
+					font-family: ;
+					color:#612040;
+				}
