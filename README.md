@@ -22,10 +22,9 @@ Para usar Belleza y Cultura, simplemente visita nuestro sitio web, navega por el
 
 Si eres propietario de una joyería en La Candelaria y deseas que tu tienda aparezca en Belleza y Cultura, o si deseas actualizar la información existente, contáctanos a través de nuestro formulario en línea.
 
-##Autores
+## Autores
 
 - Andres Felipe Arias.
 - Daniel Felipe Rojas.[GitHub](https://github.com/Knight072)
 - Sergio Reinoso.
 - Sebastian Zamora.[GitHub](https://github.com/SebZaUr)
-
