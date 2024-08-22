@@ -24,7 +24,7 @@ Si eres propietario de una joyería en La Candelaria y deseas que tu tienda apar
 
 ## Autores
 
-- Andres Felipe Arias.[GitHub](https://github.com/AndresArias02)
+- Andres Felipe Arias.(https://github.com/AndresArias02)
 - Daniel Felipe Rojas.[GitHub](https://github.com/Knight072)
 - Sergio Reinoso.
 - Sebastian Zamora.[GitHub](https://github.com/SebZaUr)
